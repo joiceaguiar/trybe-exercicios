@@ -1,6 +1,6 @@
 # Trybe - Conteúdo
 
-Neste repositório, constam todas as atividades de aprendizagem desenvolvidas por [Joice Aguiar](https://www.linkedin.com/in/joicemaguiar/), enquanto estudava Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/).
+Neste repositório, contém todas as atividades de aprendizagem desenvolvidas por [Joice Aguiar](https://www.linkedin.com/in/joicemaguiar/), enquanto estudava Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/).
 
 >O programa conta com mais de 1.500 horas de aulas online, abordando Fundamentos do Desenvolvimento Web, Desenvolvimento Front-end, Desenvolvimento Back-end, Ciência da Computação, Engenharia de Software, Metodologias Ágeis e Habilidades Comportamentais.
 
