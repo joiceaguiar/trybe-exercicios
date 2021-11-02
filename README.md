@@ -1,12 +1,12 @@
 # Trybe - Conteúdo
 
-Neste repositório, constam todas as atividades de aprendizagem desenvolvidas por [Joice Aguiar](https://www.linkedin.com/in/joicemaguiar/), enquanto estudava na [Trybe](https://www.betrybe.com/).
+Neste repositório, constam todas as atividades de aprendizagem desenvolvidas por [Joice Aguiar](https://www.linkedin.com/in/joicemaguiar/), enquanto estudava Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/).
 
 >O programa conta com mais de 1.500 horas de aulas online, abordando Fundamentos do Desenvolvimento Web, Desenvolvimento Front-end, Desenvolvimento Back-end, Ciência da Computação, Engenharia de Software, Metodologias Ágeis e Habilidades Comportamentais.
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### Bloco 01: [Unix & Bash]
+##### Bloco 01: Unix & Bash
 
 - [X] 1.3: Fundamentos do Desenvolvimento Web
 - [X] 1.3: Introdução - Unix & Shell
@@ -19,7 +19,7 @@ Neste repositório, constam todas as atividades de aprendizagem desenvolvidas po
 - [X] 2.2: Git & GitHub - Entendendo os comandos
 - [X] 2.3: Internet - Entendendo como ela funciona
 
-##### Bloco 03: [Introdução à HTML & CSS]
+##### Bloco 03: Introdução à HTML & CSS
 
 - [X] 3.1: Introdução - HTML & CSS
 - [X] 3.1: HTML & CSS - Estruturas de página
@@ -28,7 +28,7 @@ Neste repositório, constam todas as atividades de aprendizagem desenvolvidas po
 - [X] 3.4: HTML Semântico
 - [ ] 3.5: [Projeto - Lessons Learned]()
 
-##### Bloco 04: [Introdução à JavaScript e Lógica de Programação]
+##### Bloco 04: Introdução à JavaScript e Lógica de Programação
 
 - [ ] 4.1: Introdução - JavaScript
 - [ ] 4.1: JavaScript - Primeiros passos
