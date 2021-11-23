@@ -13,13 +13,13 @@ Aqui, estão todas as atividades de aprendizagem, desenvolvidas por [Joice Aguia
 - [X] 1.3: Unix & Bash - Part 1
 - [X] 1.4: Unix & Bash - Part 2
 
-##### Bloco 02: [Git, GitHub e Internet](https://github.com/joiceaguiar/trybe-exercicios/tree/master/fundamentos/bloco-02-git-github-e-internet)
+##### Bloco 02: [Git, GitHub e Internet](https://github.com/joiceaguiar/trybe-exercicios/tree/master/01-fundamentos/bloco-02-git-github-e-internet)
 
 - [X] 2.1: Git & GitHub - O que é e para que serve?
 - [X] 2.2: Git & GitHub - Entendendo os comandos
 - [X] 2.3: Internet - Entendendo como ela funciona
 
-##### Bloco 03: Introdução à HTML & CSS
+##### Bloco 03: [Introdução à HTML & CSS](https://github.com/joiceaguiar/trybe-exercicios/tree/master/01-fundamentos/bloco-03-introducao-a-html-e-css)
 
 - [X] 3.1: Introdução - HTML & CSS
 - [X] 3.1: HTML & CSS - Estruturas de página
@@ -28,7 +28,7 @@ Aqui, estão todas as atividades de aprendizagem, desenvolvidas por [Joice Aguia
 - [X] 3.4: HTML Semântico
 - [X] 3.5: [Projeto - Lessons Learned]()
 
-##### Bloco 04: Introdução à JavaScript e Lógica de Programação
+##### Bloco 04: [Introdução à JavaScript e Lógica de Programação](https://github.com/joiceaguiar/trybe-exercicios/tree/master/01-fundamentos/bloco-04-introducao-a-javascript-e-logica-de-programacao)
 
 - [X] 4.1: Introdução - JavaScript
 - [X] 4.1: JavaScript - Primeiros passos
